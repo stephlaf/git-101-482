@@ -1,0 +1,6 @@
+Make changes to your files
+Happy! >> Take a snapshot
+1. Git status
+1b. Git diff <name of the file>
+2. Git add <name of the file>
+3. Git commit -m "A meaningful message"
